@@ -9,6 +9,7 @@
 
 [Таблица Определение методов, типов и уровней тестирования для приложения интернет-магазина](https://docs.google.com/spreadsheets/d/1aIwDjikMPcPAMyUY2bpv6ZqK3KGk68phTbPlvAc2yhQ
 )
+
 📊В документе по ссылке представлена таблица, в которой проведен анализ требований и [макета](https://www.figma.com/design/2T99Jt5OHPqkhe4yyoe2IC/demoshopping.ru?node-id=0-1&p=f&t=rbLs9o6ImwapWn7h-0) к проекту интернет-магазина.
 
 [Таблица анализа требований](https://docs.google.com/spreadsheets/d/1NhQQQK-eaZMiRG_Ss4jv6EAnkLcKgQ96BpVE_91XL7Q/edit?usp=sharing)  
